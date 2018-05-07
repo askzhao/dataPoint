@@ -1,0 +1,1 @@
+include ':app', ':dp-plugin', ':SensorsAnalyticsSDK', ':runtime'
